@@ -1,0 +1,1996 @@
+[
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/cbe7ca0e-8c54-4033-b86f-275a317be68c.jpg",
+        "location": {
+            "latitude": 1.375925022,
+            "longitude": 103.8587986
+        },
+        "camera_id": "1705",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "75eafbb0a107ba1983edeb14044e54da"
+        },
+        "roadName": "Ang Mo Kio North Flyover, Singapore",
+        "weather": null
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/b803475a-13f1-4fa6-93a0-95718c0ebb8f.jpg",
+        "location": {
+            "latitude": 1.32814722194857,
+            "longitude": 103.862203282048
+        },
+        "camera_id": "1703",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "bcecd6439ce9e5d0e51753884ecaf7a6"
+        },
+        "roadName": "23 Mar Thoma Rd, Singapore 328704",
+        "weather": {
+            "areaName": "Toa Payoh",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/919ece50-4172-4f13-af13-dfb3bb6aeee3.jpg",
+        "location": {
+            "latitude": 1.35047790791386,
+            "longitude": 103.791033581325
+        },
+        "camera_id": "2703",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "9f29cee0fd5fb669951d72077e52be32"
+        },
+        "roadName": "BKE, Singapore",
+        "weather": {
+            "areaName": "Bukit Panjang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/0d2103b9-fcb5-46b7-8ef1-ae9070be17d3.jpg",
+        "location": {
+            "latitude": 1.323604823,
+            "longitude": 103.8587802
+        },
+        "camera_id": "1701",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "09f547315ced77e2009dd819079ee0a6"
+        },
+        "roadName": "7 St George's Ln, Singapore 320007",
+        "weather": {
+            "areaName": "Toa Payoh",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/523fd620-e7e7-46aa-9798-9cf197218f53.jpg",
+        "location": {
+            "latitude": 1.3983,
+            "longitude": 103.774247
+        },
+        "camera_id": "2707",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "07c85bb2d59aa4fcbbaf5c87ca00d38c"
+        },
+        "roadName": "BKE, Gangsa - CC Nature Reserve, Singapore",
+        "weather": {
+            "areaName": "Sungei Kadut",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/8ef2f6d7-d712-4c6d-8d4d-0263e3189a73.jpg",
+        "location": {
+            "latitude": 1.445554109,
+            "longitude": 103.7683397
+        },
+        "camera_id": "2702",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "7c42d6b787717e0a0fe48148f0172142"
+        },
+        "roadName": "Singapore Checkpoint, Singapore",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/844cc909-ed54-4703-aede-4a1da7f29091.jpg",
+        "location": {
+            "latitude": 1.36728572,
+            "longitude": 103.7794698
+        },
+        "camera_id": "2705",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "ee9e742fceda1bf3e6c51c272d7d5423"
+        },
+        "roadName": "BKE, Drongo Hut, Singapore",
+        "weather": {
+            "areaName": "Bukit Panjang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/f4c7d725-5e36-42ec-aacb-d5640cab01d8.jpg",
+        "location": {
+            "latitude": 1.31384231654635,
+            "longitude": 103.845603032574
+        },
+        "camera_id": "1709",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "1a3aea93f4247680f34f3f99ae7d16f8"
+        },
+        "roadName": "8 Norfolk Rd, Singapore 219013",
+        "weather": {
+            "areaName": "Kallang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/2f0e1432-bd88-4902-9a6d-ca667856e592.jpg",
+        "location": {
+            "latitude": 1.33831,
+            "longitude": 103.98032
+        },
+        "camera_id": "3702",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "d186a7abc5f46da1b1f0c6ce31b52deb"
+        },
+        "roadName": "Airport Blvd, Singapore",
+        "weather": {
+            "areaName": "Changi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/f366c5be-f94f-4470-8a29-7fd7f621cbbf.jpg",
+        "location": {
+            "latitude": 1.363519886,
+            "longitude": 103.905394
+        },
+        "camera_id": "1005",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "5fc85c141d4d46edf4d94b547ec259b1"
+        },
+        "roadName": "KPE, Singapore",
+        "weather": {
+            "areaName": "Paya Lebar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7590db0f-e5a3-4e26-93b5-c055ef6bab33.jpg",
+        "location": {
+            "latitude": 1.357098686,
+            "longitude": 103.902042
+        },
+        "camera_id": "1006",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "07719b542b84bfce4873c5d294ee02ec"
+        },
+        "roadName": "25 Defu Lane 3, Singapore 539457",
+        "weather": {
+            "areaName": "Paya Lebar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/3e57fb99-8988-413c-baf8-984cb158a78f.jpg",
+        "location": {
+            "latitude": 1.414142,
+            "longitude": 103.771168
+        },
+        "camera_id": "2706",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "dfdc8d17bd83baac6d6ece51eacaadf4"
+        },
+        "roadName": "BKE, Singapore",
+        "weather": {
+            "areaName": "Sungei Kadut",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/a5a52d3c-2650-4025-9e2f-6a891e39b2e5.jpg",
+        "location": {
+            "latitude": 1.429588536,
+            "longitude": 103.769311
+        },
+        "camera_id": "2704",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "36ae689adb7e2d88e437d2b6c6c08ad0"
+        },
+        "roadName": "BKE, Singapore",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/5e3f93f1-0fac-4c9f-b23f-2de06bfdaf65.jpg",
+        "location": {
+            "latitude": 1.34355015,
+            "longitude": 103.8601984
+        },
+        "camera_id": "1702",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "c09b6d386b662fb8a7551371718f1c39"
+        },
+        "roadName": "Braddell Flyover, Singapore",
+        "weather": {
+            "areaName": "Toa Payoh",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/ec2326ca-0dc4-4a66-9ee2-90ee0571e9a6.jpg",
+        "location": {
+            "latitude": 1.29531332,
+            "longitude": 103.871146
+        },
+        "camera_id": "1001",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "62e64dfd6f30ea27adc8bb3e3b138b17"
+        },
+        "roadName": "183 Tg Rhu Rd, Singapore 436923",
+        "weather": {
+            "areaName": "Kallang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/19c29b55-17c6-468b-8ac9-50a2aaa797ca.jpg",
+        "location": {
+            "latitude": 1.38861,
+            "longitude": 103.85806
+        },
+        "camera_id": "1706",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "56dbd3314045888cc73f223d8191d378"
+        },
+        "roadName": "68 Sunrise Ave, Singapore 806705",
+        "weather": {
+            "areaName": "Seletar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/ad25d84e-7860-45d9-919b-5810c27c14b2.jpg",
+        "location": {
+            "latitude": 1.3865,
+            "longitude": 103.7747
+        },
+        "camera_id": "2708",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "cf100ca04d11a01035809579b9ebb120"
+        },
+        "roadName": "467 Segar Rd, Singapore 670467",
+        "weather": {
+            "areaName": "Bukit Panjang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/ac469d2b-4f83-425e-b0c2-11991d44cb53.jpg",
+        "location": {
+            "latitude": 1.319535712,
+            "longitude": 103.8750668
+        },
+        "camera_id": "1004",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "eab1b1a6d330931fc1aae6baa5bab174"
+        },
+        "roadName": "KPE, Singapore",
+        "weather": {
+            "areaName": "Geylang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/fca13469-0485-44f2-8441-10151e878e1f.jpg",
+        "location": {
+            "latitude": 1.32743,
+            "longitude": 103.97383
+        },
+        "camera_id": "3705",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "2e5a5d70956aa824c29c09b6a62a0c5f"
+        },
+        "roadName": "ECP, Singapore",
+        "weather": {
+            "areaName": "Changi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/e2e5c66d-8894-4b6c-b7bf-cf0dec3a48f5.jpg",
+        "location": {
+            "latitude": 1.447023728,
+            "longitude": 103.7716543
+        },
+        "camera_id": "2701",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "4ab9eb4fcd077bb8bb3d343d70034170"
+        },
+        "roadName": "214 Marsiling Ln, Singapore 730214",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/543e6ee5-b711-4f0c-abd4-650d50aa01ba.jpg",
+        "location": {
+            "latitude": 1.319541067,
+            "longitude": 103.8785627
+        },
+        "camera_id": "1002",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "512e1d66fec171c2ac691aead3f6b76f"
+        },
+        "roadName": "56 Sims Dr, Singapore 380056",
+        "weather": {
+            "areaName": "Geylang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7ad0f229-bf14-4af2-9677-bbbc65425197.jpg",
+        "location": {
+            "latitude": 1.309330837,
+            "longitude": 103.9350504
+        },
+        "camera_id": "3793",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "e4d2c9e09d8f61d53ed82bf9f0704e51"
+        },
+        "roadName": "Laguna Flyover, Singapore",
+        "weather": {
+            "areaName": "Bedok",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d7fa7901-b2ad-439a-b8d7-9ebda78c07c4.jpg",
+        "location": {
+            "latitude": 1.2958550156561,
+            "longitude": 103.880314665981
+        },
+        "camera_id": "3704",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "883240b536e9b6486d177b1185a06d96"
+        },
+        "roadName": "ECP, Singapore",
+        "weather": {
+            "areaName": "Marine Parade",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7be4567b-d36c-48db-902b-febdbf496e4d.jpg",
+        "location": {
+            "latitude": 1.30145145166066,
+            "longitude": 103.910596320237
+        },
+        "camera_id": "3795",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "e8917e1c9526f0fe376a763df6cb6ef8"
+        },
+        "roadName": "Marine Parade Flyover, Singapore",
+        "weather": {
+            "areaName": "Marine Parade",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/26f6282e-8664-46bd-80b8-6f85517f3a04.jpg",
+        "location": {
+            "latitude": 1.323957439,
+            "longitude": 103.8728576
+        },
+        "camera_id": "1003",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "391f82ccafa1ef8fd2ecb93da91bbd2a"
+        },
+        "roadName": "8 Kallang Sector, Singapore 349282",
+        "weather": {
+            "areaName": "Geylang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7b6febba-258a-4513-ab6a-1713f2b7aa0c.jpg",
+        "location": {
+            "latitude": 1.297512569,
+            "longitude": 103.8983019
+        },
+        "camera_id": "3796",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "95bdc5674e1b61225c725a2f8615ea59"
+        },
+        "roadName": "2 Tanjong Katong Rd S, Singapore 436935",
+        "weather": {
+            "areaName": "Marine Parade",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/86b1eca5-f2a1-4228-b398-f41c2386ff97.jpg",
+        "location": {
+            "latitude": 1.29565733262976,
+            "longitude": 103.885283049309
+        },
+        "camera_id": "3797",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "fbb9e9b7a021a0e746731b8940fc3fff"
+        },
+        "roadName": "45 Marina East Drive, Singapore",
+        "weather": {
+            "areaName": "Marine Parade",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d26bb1f9-9d38-439d-b89b-9fec6da6c94e.jpg",
+        "location": {
+            "latitude": 1.29158484,
+            "longitude": 103.8615987
+        },
+        "camera_id": "3798",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "d371f95f3e7f40f6cd36b349fa6569f3"
+        },
+        "roadName": "Marina Ctr Ter, Singapore",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7226cb2a-caec-4144-900f-25aa93772eb0.jpg",
+        "location": {
+            "latitude": 1.2871,
+            "longitude": 103.79633
+        },
+        "camera_id": "4701",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "6ad6d33436d3d876e50c9adeeeb3c8f5"
+        },
+        "roadName": "2 Warwick Rd, Singapore 138992",
+        "weather": {
+            "areaName": "Queenstown",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/39d9ce7b-96d5-48de-9156-e138ae71b88d.jpg",
+        "location": {
+            "latitude": 1.27237,
+            "longitude": 103.8324
+        },
+        "camera_id": "4702",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "c58d09a058686558f04726addbafdb14"
+        },
+        "roadName": "43 Keppel Rd, Singapore 099418",
+        "weather": {
+            "areaName": "Bukit Merah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/114e0f89-08fd-4d54-bd23-b0f2810986ec.jpg",
+        "location": {
+            "latitude": 1.33344648135658,
+            "longitude": 103.652700847056
+        },
+        "camera_id": "4707",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "cefacc5e194010414939aab697ef4938"
+        },
+        "roadName": "37 Tuas Ave 8, Singapore 639249",
+        "weather": {
+            "areaName": "Jalan Bahar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/e0d3d823-ab0e-4a93-b8c4-086aa9a9487f.jpg",
+        "location": {
+            "latitude": 1.345996,
+            "longitude": 103.69016
+        },
+        "camera_id": "6708",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "4d68e77c0bd6df4cf5d9646216ee553d"
+        },
+        "roadName": "Nanyang Flyover, Singapore",
+        "weather": {
+            "areaName": "Jurong West",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/f36f2f97-9fb6-4398-be4c-e94ac3357a07.jpg",
+        "location": {
+            "latitude": 1.26027777363278,
+            "longitude": 103.823888890049
+        },
+        "camera_id": "4799",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "e25c3815f3504c0c14a34805e3a8703e"
+        },
+        "roadName": "6 Sentosa Gateway, Singapore 098072",
+        "weather": {
+            "areaName": "Bukit Merah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/376072d1-3348-4f04-8325-5c7df331e31d.jpg",
+        "location": {
+            "latitude": 1.332124,
+            "longitude": 103.81768
+        },
+        "camera_id": "6705",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "d3719a60285cb09ac5849d14b4d34235"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Novena",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/2221a03c-5dc4-40a5-935b-f53507deaf75.jpg",
+        "location": {
+            "latitude": 1.27877,
+            "longitude": 103.82375
+        },
+        "camera_id": "4704",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "60ceabade1f0d35036b326332f9c9aa7"
+        },
+        "roadName": "AYE, Singapore",
+        "weather": {
+            "areaName": "Bukit Merah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/8cbc25ad-8787-4592-9d17-5c9e8bb601f3.jpg",
+        "location": {
+            "latitude": 1.328171608,
+            "longitude": 103.8685191
+        },
+        "camera_id": "5799",
+        "image_metadata": {
+            "height": 288,
+            "width": 384,
+            "md5": "d136d6db09a7a7ff63df693a1814208e"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Toa Payoh",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/263ed7bd-f93c-4ca3-8c66-401bc4f8709f.jpg",
+        "location": {
+            "latitude": 1.3309693,
+            "longitude": 103.9168616
+        },
+        "camera_id": "5794",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "8505c1e52b3e766f6bb2df5d1b717f20"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Bedok",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/08a95fb2-d3bf-409f-8379-e359da237f74.jpg",
+        "location": {
+            "latitude": 1.322875288,
+            "longitude": 103.8910793
+        },
+        "camera_id": "5797",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "73731b643ca63440a57d83157c975530"
+        },
+        "roadName": "Singapore, Tg Katong Rd12号",
+        "weather": {
+            "areaName": "Geylang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/065d4b32-9db9-4a76-9d0c-51b98ab07192.jpg",
+        "location": {
+            "latitude": 1.32618,
+            "longitude": 103.73028
+        },
+        "camera_id": "4705",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "09b28fa1cfd95152de7fe2977de59640"
+        },
+        "roadName": "24 Jln Papan, Singapore 619419",
+        "weather": {
+            "areaName": "Jurong East",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/ecd5590d-f114-4fd8-9b8d-f7ab376924e8.jpg",
+        "location": {
+            "latitude": 1.329334,
+            "longitude": 103.858222
+        },
+        "camera_id": "6701",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "188c0d88623a1a661e1d9af43f159a27"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Toa Payoh",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/1f34e81c-98dc-44ff-8625-5f3156de2a23.jpg",
+        "location": {
+            "latitude": 1.31023,
+            "longitude": 103.76438
+        },
+        "camera_id": "4714",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "8652ee247e2e9b532afa393ef253ba6c"
+        },
+        "roadName": "12 W Coast Walk, Singapore 127157",
+        "weather": {
+            "areaName": "Clementi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/9e799ea5-b3a3-46b2-a6ef-0908bd3b5ccc.jpg",
+        "location": {
+            "latitude": 1.32036078126842,
+            "longitude": 103.877174116489
+        },
+        "camera_id": "5798",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "7ca6b60841cdfc8b49aa3a8a2225e5fa"
+        },
+        "roadName": "60 Jln Kolam Ayer, Singapore 347486",
+        "weather": {
+            "areaName": "Geylang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/53c9e4b7-2afc-4169-b134-95e45b89495a.jpg",
+        "location": {
+            "latitude": 1.328899,
+            "longitude": 103.84121
+        },
+        "camera_id": "6703",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "803f32981b0a6eec0b94f9a411b9cd00"
+        },
+        "roadName": "Thomson Flyover, Singapore",
+        "weather": {
+            "areaName": "Novena",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6443235f-8418-477c-b423-be1b6eb4cd4c.jpg",
+        "location": {
+            "latitude": 1.312019,
+            "longitude": 103.763002
+        },
+        "camera_id": "4709",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "566b39f9cff3284ec92ff84faed72cdf"
+        },
+        "roadName": "427 Clementi Ave 3, Block 427, Singapore 120427",
+        "weather": {
+            "areaName": "Clementi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/cfe6cf91-1068-4fe4-9c4d-bcdae3d7282c.jpg",
+        "location": {
+            "latitude": 1.32227,
+            "longitude": 103.67453
+        },
+        "camera_id": "4716",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "4bafa51b5d5792b123b3f895bdcdb3c3"
+        },
+        "roadName": "151 Gul Cir, Singapore 629608",
+        "weather": {
+            "areaName": "Pioneer",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/00ff5dc5-8724-423a-a439-09b90ec6ced4.jpg",
+        "location": {
+            "latitude": 1.349428893,
+            "longitude": 103.7952799
+        },
+        "camera_id": "6706",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "ba7c54e40a83187ce9dc9d474805d1de"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Bukit Timah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/8e16b3bd-4041-4997-9ed5-b6b03cbcc383.jpg",
+        "location": {
+            "latitude": 1.344205,
+            "longitude": 103.78577
+        },
+        "camera_id": "6710",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "fba9596193156da73c77384d46859a16"
+        },
+        "roadName": "15 Binjai Rise, Singapore 589789",
+        "weather": {
+            "areaName": "Bukit Timah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/996c35fb-2e09-4b6b-bb1e-50200837cb6d.jpg",
+        "location": {
+            "latitude": 1.29939,
+            "longitude": 103.7799
+        },
+        "camera_id": "4708",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "3cc025fab5ede88506076c1ee4574c75"
+        },
+        "roadName": "Opp SIT Dover, Singapore",
+        "weather": {
+            "areaName": "Queenstown",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/adb05fcb-fb38-4c90-856f-126d86eb62cb.jpg",
+        "location": {
+            "latitude": 1.326024822,
+            "longitude": 103.905625
+        },
+        "camera_id": "5795",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "ba7f8742e6402fb9070086829812072d"
+        },
+        "roadName": "PIE, Singapore",
+        "weather": {
+            "areaName": "Bedok",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/fda893a1-f5e6-43bb-bbe0-cdc660c9a2f6.jpg",
+        "location": {
+            "latitude": 1.32153,
+            "longitude": 103.75273
+        },
+        "camera_id": "4710",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "0ecb94011c17b3d6b0499d43d77022e1"
+        },
+        "roadName": "101 West Coast Vale, Singapore 126753",
+        "weather": {
+            "areaName": "Clementi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/387ffac6-54f2-48c2-a48e-6b8c8892eedf.jpg",
+        "location": {
+            "latitude": 1.341244001,
+            "longitude": 103.6439134
+        },
+        "camera_id": "4712",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "668333db3e26b0e3c4922ab7670e99cc"
+        },
+        "roadName": "AYE, Singapore",
+        "weather": {
+            "areaName": "Jalan Bahar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/7c6c880a-3b58-42b1-83bf-ee6265651709.jpg",
+        "location": {
+            "latitude": 1.27135090682664,
+            "longitude": 103.861828440597
+        },
+        "camera_id": "1502",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "3c1ce6da7374e414026b5607c6ca62ee"
+        },
+        "roadName": "Unknown Name (1502)",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/9192b68c-16c9-4ab5-affe-92cd0933609d.jpg",
+        "location": {
+            "latitude": 1.29409891409364,
+            "longitude": 103.876056196568
+        },
+        "camera_id": "1504",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "cd761aaa3243cded1b1c6caa79aa24a6"
+        },
+        "roadName": "Unknown Name (1504)",
+        "weather": {
+            "areaName": "Marine Parade",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/f9761878-edde-4a9c-bb7e-f606d8394513.jpg",
+        "location": {
+            "latitude": 1.27414394350065,
+            "longitude": 103.851316802547
+        },
+        "camera_id": "1501",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "de91d96ade28538fbe0c740933b83f01"
+        },
+        "roadName": "Unknown Name (1501)",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/848b922e-fe18-4b8b-8bf6-64f00340ce6d.jpg",
+        "location": {
+            "latitude": 1.332691,
+            "longitude": 103.770278
+        },
+        "camera_id": "6712",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "e2d804c6cac46cfbd64353d152faf999"
+        },
+        "roadName": "Unknown Name (6712)",
+        "weather": {
+            "areaName": "Clementi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/65e5d4b7-7036-4fb6-81b7-8adb2c15546b.jpg",
+        "location": {
+            "latitude": 1.33771,
+            "longitude": 103.977827
+        },
+        "camera_id": "6711",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "d2f4224e52402dc957b6176eb8506ada"
+        },
+        "roadName": "Unknown Name (6711)",
+        "weather": {
+            "areaName": "Changi",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/283d1826-f9e1-4ae1-8a57-d1a9be979ecd.jpg",
+        "location": {
+            "latitude": 1.356299,
+            "longitude": 103.716071
+        },
+        "camera_id": "6715",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "6c854201acce8dd8c5cab421b1150aff"
+        },
+        "roadName": "Unknown Name (6715)",
+        "weather": {
+            "areaName": "Tengah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/12f9f7dc-d766-46b5-8221-b0e04b4dc7c5.jpg",
+        "location": {
+            "latitude": 1.39059,
+            "longitude": 103.7717
+        },
+        "camera_id": "8702",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "91020daa722dd7093f09c6e444a66a8f"
+        },
+        "roadName": "Unknown Name (8702)",
+        "weather": {
+            "areaName": "Sungei Kadut",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/99dd3fcc-e128-4ffb-ad94-2c64777a349f.jpg",
+        "location": {
+            "latitude": 1.322893,
+            "longitude": 103.663505
+        },
+        "camera_id": "6716",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "7a19b8cbe2f02d98ba8ef2dc5704a9ee"
+        },
+        "roadName": "Unknown Name (6716)",
+        "weather": {
+            "areaName": "Pioneer",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/f0936c69-c0a2-43d0-890f-bc5bd18c915f.jpg",
+        "location": {
+            "latitude": 1.40002575,
+            "longitude": 103.85702534
+        },
+        "camera_id": "7797",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "5c61f7988f2562e13c0f81b692b12741"
+        },
+        "roadName": "Unknown Name (7797)",
+        "weather": {
+            "areaName": "Seletar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:37:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/3293acc9-ecef-490d-8a3a-b3c76783cd67.jpg",
+        "location": {
+            "latitude": 1.347645829,
+            "longitude": 103.6366955
+        },
+        "camera_id": "4713",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "3f4c68f6a19b32f37ec80e976709ef62"
+        },
+        "roadName": "Unknown Name (4713)",
+        "weather": {
+            "areaName": "Jalan Bahar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/98c4842c-e17a-4a9f-96f8-9055cbf0b41c.jpg",
+        "location": {
+            "latitude": 1.361742,
+            "longitude": 103.703341
+        },
+        "camera_id": "6714",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "626eb02987e8f2e17608c2a2afe5a184"
+        },
+        "roadName": "Unknown Name (6714)",
+        "weather": {
+            "areaName": "Tengah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:37:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6a2965c9-4bf3-4909-ae1a-aa0a09c398f1.jpg",
+        "location": {
+            "latitude": 1.348697862,
+            "longitude": 103.6350413
+        },
+        "camera_id": "4703",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "e6d35ac9e37b76af114c94b161c7b47e"
+        },
+        "roadName": "Unknown Name (4703)",
+        "weather": {
+            "areaName": "Jalan Bahar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:36:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/a191cd32-e449-491d-9c02-c478e63122a7.jpg",
+        "location": {
+            "latitude": 1.28569398886979,
+            "longitude": 103.837524510188
+        },
+        "camera_id": "1704",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "3d1be92f9d1bd9b88bf5692138d89b02"
+        },
+        "roadName": "Unknown Name (1704)",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/183b8ee0-ec1e-4295-a287-922476dd4e1a.jpg",
+        "location": {
+            "latitude": 1.42214311,
+            "longitude": 103.79542062
+        },
+        "camera_id": "9704",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "dc3f3b593b18d3136dab39a91888d0ae"
+        },
+        "roadName": "Unknown Name (9704)",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6708ea2b-35c7-4154-ba45-255bd39f5410.jpg",
+        "location": {
+            "latitude": 1.25999999687243,
+            "longitude": 103.823611110166
+        },
+        "camera_id": "4798",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "335ed480543dd2710793cdf1ca22716a"
+        },
+        "roadName": "Unknown Name (4798)",
+        "weather": {
+            "areaName": "Bukit Merah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/ec7eaf01-99a2-4596-bf64-c4f9fa9fc54a.jpg",
+        "location": {
+            "latitude": 1.340298,
+            "longitude": 103.945652
+        },
+        "camera_id": "6713",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "13ff973327c6140727c9f4f6bc15f163"
+        },
+        "roadName": "Unknown Name (6713)",
+        "weather": {
+            "areaName": "Tampines",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/17cde45e-23bd-4df9-b26e-1939df1dbcd1.jpg",
+        "location": {
+            "latitude": 1.38432741,
+            "longitude": 103.91585701
+        },
+        "camera_id": "7795",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "bc44aa66ad29dd0c4bb4af91072bc805"
+        },
+        "roadName": "Unknown Name (7795)",
+        "weather": {
+            "areaName": "Punggol",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6bc660ed-db26-40ca-8995-3f1591f1e616.jpg",
+        "location": {
+            "latitude": 1.3664,
+            "longitude": 103.70899
+        },
+        "camera_id": "8706",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "53b80b74872a93a43be2bcf6e83a0161"
+        },
+        "roadName": "Unknown Name (8706)",
+        "weather": {
+            "areaName": "Tengah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d24d753c-6718-42c2-b618-85933676c87e.jpg",
+        "location": {
+            "latitude": 1.37988658,
+            "longitude": 103.92009174
+        },
+        "camera_id": "7794",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "45f7bad8444b94b2d44e0ebee960c77d"
+        },
+        "roadName": "Unknown Name (7794)",
+        "weather": {
+            "areaName": "Paya Lebar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6e393ffa-13bd-480d-b8a4-acc9f7627336.jpg",
+        "location": {
+            "latitude": 1.27066408655104,
+            "longitude": 103.856977943394
+        },
+        "camera_id": "1503",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "b7288ca895546f2ce86b406d2dad6640"
+        },
+        "roadName": "Unknown Name (1503)",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/e5ae906d-0566-43e9-a168-b1368e24efb7.jpg",
+        "location": {
+            "latitude": 1.37704704,
+            "longitude": 103.92946983
+        },
+        "camera_id": "7793",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "d23b78c4c6ab496f1707afbb0169fcaa"
+        },
+        "roadName": "Unknown Name (7793)",
+        "weather": {
+            "areaName": "Pasir Ris",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:37:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d9019d9d-8397-4289-8711-99819568f750.jpg",
+        "location": {
+            "latitude": 1.35296,
+            "longitude": 103.85719
+        },
+        "camera_id": "1711",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "39aaeee34d57fc65fd22c89b537a3099"
+        },
+        "roadName": "Unknown Name (1711)",
+        "weather": {
+            "areaName": "Serangoon",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/6a4e07a0-1b60-41d2-8d75-7dc71f6e9707.jpg",
+        "location": {
+            "latitude": 1.32657403632366,
+            "longitude": 103.826857295633
+        },
+        "camera_id": "6704",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "e3494b602cea47789ffb9d18d84d56e3"
+        },
+        "roadName": "Unknown Name (6704)",
+        "weather": {
+            "areaName": "Novena",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/bc50fe06-9b50-45a5-91a9-ac6e6055ec95.jpg",
+        "location": {
+            "latitude": 1.3899,
+            "longitude": 103.74843
+        },
+        "camera_id": "8704",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "9a3ffd17009386b220c684a731ade6ec"
+        },
+        "roadName": "Unknown Name (8704)",
+        "weather": {
+            "areaName": "Choa Chu Kang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/67a5e99d-01d3-48e7-91c9-0c18de7e6b0d.jpg",
+        "location": {
+            "latitude": 1.39559294,
+            "longitude": 103.90515712
+        },
+        "camera_id": "7796",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "b24815e8dad3d4ccfb65a2aa4644ff8e"
+        },
+        "roadName": "Unknown Name (7796)",
+        "weather": {
+            "areaName": "Punggol",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/3d7689dc-6f0c-449e-a465-e25a6eb4a58c.jpg",
+        "location": {
+            "latitude": 1.39748842,
+            "longitude": 103.85400467
+        },
+        "camera_id": "7798",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "1f952784d34efcf3ab15791c7ac9aa93"
+        },
+        "roadName": "Unknown Name (7798)",
+        "weather": {
+            "areaName": "Seletar",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/34c617b5-ec57-4815-ad61-5b1782ca1cba.jpg",
+        "location": {
+            "latitude": 1.354245,
+            "longitude": 103.963782
+        },
+        "camera_id": "7791",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "c73f57ac66d15d86cc872a843e463686"
+        },
+        "roadName": "Unknown Name (7791)",
+        "weather": {
+            "areaName": "Tampines",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/5820af48-482c-47d2-be7c-5e3a7f44f8c7.jpg",
+        "location": {
+            "latitude": 1.42627712,
+            "longitude": 103.78716637
+        },
+        "camera_id": "9705",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "886b8a94fa246681274d7c201074f93a"
+        },
+        "roadName": "Unknown Name (9705)",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d97d104b-4a65-41ef-b7a8-4ff0ab15725a.jpg",
+        "location": {
+            "latitude": 1.2752977149006,
+            "longitude": 103.866390381759
+        },
+        "camera_id": "1505",
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "74104f0d6d89d6c5da9c2561464a954b"
+        },
+        "roadName": "Unknown Name (1505)",
+        "weather": {
+            "areaName": "City",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/d94b1824-cb78-4e84-b2cf-2e2416c18219.jpg",
+        "location": {
+            "latitude": 1.41270056,
+            "longitude": 103.80642712
+        },
+        "camera_id": "9706",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "f5d0cc3e48d352d113650e40f5d1d347"
+        },
+        "roadName": "Unknown Name (9706)",
+        "weather": {
+            "areaName": "Mandai",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/658d6536-97b8-4766-96eb-5cf10a8f16d8.jpg",
+        "location": {
+            "latitude": 1.422857,
+            "longitude": 103.773005
+        },
+        "camera_id": "9703",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "78c13cdb05108cd3b6774b0754dd29ff"
+        },
+        "roadName": "Unknown Name (9703)",
+        "weather": {
+            "areaName": "Woodlands",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/1b58715d-cc3a-4bd3-b744-0ec29aeffe9d.jpg",
+        "location": {
+            "latitude": 1.39474081,
+            "longitude": 103.81797086
+        },
+        "camera_id": "9702",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "0517257057c29627c9ddd7ba2b6ab762"
+        },
+        "roadName": "Unknown Name (9702)",
+        "weather": {
+            "areaName": "Central Water Catchment",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/b0a77cf7-5ed8-41fc-84e2-c7e402163ad2.jpg",
+        "location": {
+            "latitude": 1.39466333,
+            "longitude": 103.83474601
+        },
+        "camera_id": "9701",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "a30b5ac45533182435a2b9b8d2a3fffd"
+        },
+        "roadName": "Unknown Name (9701)",
+        "weather": {
+            "areaName": "Ang Mo Kio",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:38:25+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/4f8d9f19-b9b1-4dc9-896b-84dd968361a6.jpg",
+        "location": {
+            "latitude": 1.38647,
+            "longitude": 103.74143
+        },
+        "camera_id": "8701",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "1ed299edfffff550ccd0357bb81b6c89"
+        },
+        "roadName": "Unknown Name (8701)",
+        "weather": {
+            "areaName": "Choa Chu Kang",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:35:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/0227bc41-28c3-4290-bfbd-d699c8035b03.jpg",
+        "location": {
+            "latitude": 1.29792,
+            "longitude": 103.78205
+        },
+        "camera_id": "4706",
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "cace3c7e6a494585b0896c493c0eda2d"
+        },
+        "roadName": "Unknown Name (4706)",
+        "weather": {
+            "areaName": "Queenstown",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    },
+    {
+        "timestamp": "2020-06-10T13:37:45+08:00",
+        "image": "https://images.data.gov.sg/api/traffic-images/2020/06/bfbeff6a-b445-459b-aee2-b51b6d5f9ace.jpg",
+        "location": {
+            "latitude": 1.28036584335876,
+            "longitude": 103.830451146503
+        },
+        "camera_id": "1707",
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "65777fbe2da45455797f0c480b3fc08e"
+        },
+        "roadName": "Unknown Name (1707)",
+        "weather": {
+            "areaName": "Bukit Merah",
+            "forecast": "Windy",
+            "validPeriod": {
+                "start": "2020-06-10T13:30:00+08:00",
+                "end": "2020-06-10T15:30:00+08:00"
+            }
+        }
+    }
+]
